@@ -85,3 +85,7 @@ For Fullstack/Backend developers - Create rest apis using Nodejs/java, similar t
 
 Images for referance: (No need to make it exactly same)
 
+<img width="604" alt="Screenshot 2023-01-03 at 3 02 11 PM" src="https://user-images.githubusercontent.com/114095087/210331447-1c741db8-04df-4577-a6e1-87259a894f5e.png">
+
+<img width="594" alt="Screenshot 2023-01-03 at 3 02 19 PM" src="https://user-images.githubusercontent.com/114095087/210331492-063f4151-8ce2-401d-8365-f58c465877c3.png">
+
